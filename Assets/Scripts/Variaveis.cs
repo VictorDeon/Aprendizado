@@ -5,6 +5,7 @@ public class Variaveis : MonoBehaviour {
 
     int coins = 10;
     //float money = 10.2f;
+    //double money = 850.3;
     //int integerMoney;
     //bool isAlive = true;
     string text = "Ola mundo!";
